@@ -100,3 +100,5 @@ Many thanks to [@jdsharp](https://twitter.com/jdsharp) for accidentally finding 
 * Rebuild tags    ctrl+alt+shift+t
 * Find definition of word under caret ctrl+] (return to previous position after find definition) ctrl+[
 
+## References
+* http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
