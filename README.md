@@ -3,7 +3,7 @@ SublimeText2CheatSheet
 
 SubimeText2 Cheat Sheet
 
-Many thanks to [@jdsharp](https://twitter.com/jdsharp) for getting this started with his [Google Docs Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AusfeSUbiAMPdFp0aDhsTzJZY1k5WnA4Z3RjQW93M3c).
+Many thanks to [@jdsharp](https://twitter.com/jdsharp) for accidently finding (via google search) and sharing this [Google Docs Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AusfeSUbiAMPdFp0aDhsTzJZY1k5WnA4Z3RjQW93M3c) with the twitter community.
 
 #Contribute
 
