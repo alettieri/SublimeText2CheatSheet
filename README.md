@@ -46,6 +46,15 @@ Many thanks to [@jdsharp](https://twitter.com/jdsharp) for getting this started 
 * Swap Line Down  ctrl+super+down
 * select_lines up ctrl+shift+up
 * select_lines down   ctrl+shift+down
+* select matching words, higlight word, then command+g
+
+#Multiselect
+* alt or command + left click. (click in each region where you require a cursor)
+* Select lines then shift+command+l
+## Select additional occoruences of a word.
+* Place cursor over word, ctrl/command+d repeatetly.
+## Alternatively, add additional cusor at all occurences
+* Type Ctrl+Command+G (alt+f3 on windows) 
 
 #Completion  
 * insert best completion  enter
@@ -84,7 +93,8 @@ Many thanks to [@jdsharp](https://twitter.com/jdsharp) for getting this started 
 * Folding 
 * Fold    super+shift+j
 * Unfold all  super+j
-    
+
 #CTags  
 * Rebuild tags    ctrl+alt+shift+t
 * Find definition of word under caret ctrl+] (return to previous position after find definition) ctrl+[
+
