@@ -13,10 +13,9 @@ Many thanks to [@jdsharp](https://twitter.com/jdsharp) for getting this started 
 4. Make a Pull Request.
 
 #Find
-find    super+f
-find in files   super+shift+f
-
-replace super+alt+f
+* find    super+f
+* find in files   super+shift+f
+* replace super+alt+f
 * find_next   super+g
 * find_prev   super+shift+g
 * find the next occurrence of the word under the caret (and won't show the find panel)    super+alt+g
